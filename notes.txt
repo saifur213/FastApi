@@ -1,0 +1,60 @@
+FastApi: It is super fast python web framework. Very modern and nice feature of scynchronous programming.
+
+Features:
+1. Automatic Docs
+2. Provide Swagger UI
+3. ReDoc UI
+4. Use pydantic library
+5. Based on Open Api and JSON Schema
+6. Code editor auto compelete in vs code
+7. Security and Authenmtication
+8. Dependency Injection and Unlimited plugin tested
+9. Use starlette features
+10. SQL, NoSQL and GrapQL Supported
+
+Getting Started
+------------------
+# Basic Concepts
+  1. Path parameters
+  2. Api Docs - Swagger/redocs
+  3. Query Parameter
+  4. Request body
+# Intermediate Concepts
+  1. Debugging FastApi
+  2. Pydantic Schemas
+  3. SqlAlchemy database connection
+  4. Models and table
+# Database Tasks
+  1. Store blog to database
+  2. Get blogs from database
+  3. Delete 
+  4. Update
+# Responses
+  1. Handling Exceptions
+  2. Return Response
+  3. Define response model
+# User and Password
+  1. Create user
+  2. Hash user password
+  3. Show single user
+  4. Define docs tags
+# Relationship
+  1. Define User to blog relationship
+  2. Define blog to user relationship
+# Refactor for bigger Application
+  1. API Router
+  2. API Router with parameters
+# Authentication using JWT(Json Web Token)
+  1. Create login route
+  2. Login and verify password
+  3. Return JWT access token
+  4. Routes behind authentication
+# Deploy FastAPI
+  1. Using Deta.sh website to deploy
+
+FastApi Documentation: https://fastapi.tiangolo.com/
+
+
+
+
+
