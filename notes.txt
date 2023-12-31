@@ -54,6 +54,10 @@ Getting Started
 
 FastApi Documentation: https://fastapi.tiangolo.com/
 
+======================================================
+Conect FastApi with SQLite Dastbase using sqlalchemy
+
+
 
 
 

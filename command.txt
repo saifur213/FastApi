@@ -1,2 +1,4 @@
-run fast api: uvicorn main:app
-http://127.0.0.1:8000/docs#/  or localhost:8000
+run fast api: uvicorn main:app --reload
+http://127.0.0.1:8000 or localhost:8000
+Swegger UI: http://127.0.0.1:8000/docs#/  
+Redoc UI: http://localhost:8000/redoc
